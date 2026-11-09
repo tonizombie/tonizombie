@@ -22,7 +22,7 @@ My name is Toni.
 
 ## Skills  
 ### Programming Languages  
-- HTML, CSS
+- HTML, CSS  
 -- Currently learning: Javascript
 
 ## Home setup 
