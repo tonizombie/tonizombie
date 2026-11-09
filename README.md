@@ -31,7 +31,7 @@ My name is Toni.
 -- Currently learning: Javascript  
 
 ### Computer Building
-I have built 7 computers
+- I have built 7 computers  
 
 ## Projects  
 -- To be Added
