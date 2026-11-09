@@ -28,7 +28,10 @@ My name is Toni.
 ## Skills  
 ### Programming Languages  
 - HTML, CSS  
--- Currently learning: Javascript
+-- Currently learning: Javascript  
+
+### Computer Building
+I have built 7 computers
 
 ## Projects  
 -- To be Added
