@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 # Welcome to my profile
 
 My name is Toni.  
+
 ⬜⬜🟦⬜⬜⬜  
 🟦🟦🟦🟦🟦🟦 I'm from Finland  
 ⬜⬜🟦⬜⬜⬜  
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quantico&pause=1000&width=435&lines=Software+Dev)](https://git.io/typing-svg)  
+<!-- Source: https://github.com/DenverCoder1/readme-typing-svg -->
 
 ## Skills  
 ### Programming Languages  
