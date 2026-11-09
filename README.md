@@ -72,6 +72,29 @@ My name is Toni.
 ### Homelab
 <details>
   <summary>Homelab Setup</summary>
+  MINIS FORUM MS-02 Ultra Workstation Mini PC, USB4 v2, 10GbE + 2.5GbE(vPro), Wi-Fi 7  
 
+  Intel Core Ultra 9 285HX (8P Cores, 16E Cores, 24 Threads)  
+  (Max PW Limit at PL1 60W PL2 90W)  
   
+  RAM (Max 4× 256GB DDR5(ECC))  
+  Crucial SODIMM DDR5-5600(@4400MHz) - 96GB (2x48GB) - CL46 - Dual Channel  
+  
+  Dual SSDs on motherboard  
+  OS Drive  
+  (M2-1) Crucial T500 4TB (@Gen4 x4(Max Gen5 x4)  
+  Secondary Drive  
+  (M2-2) Samsung 970 Evo Plus 1TB (@Gen3 x4(Max Gen4 x4)  
+  
+  Dual SSDs in SFP28 Card  
+  (M2-3) Crucial T500 4TB (@Gen3 x4(Max Gen4 x4)  
+  (M2-4) WD Black SN850X 4TB (@Gen3 x4(Max Gen4 x4)  
+  
+  External Drive  
+  Samsung T7 Shield 2TB  
+  
+  PCIE Slots  
+  Top - MINISFORUM ENPBA PCIe To 2x 25G(SFP28) + 2x NVME (@Gen4 x4+x4+x4 Propietary)  
+  Main - Sparkle Intel Arc A310 ECO 4GB GDDR6 (@Gen5 x16)  
+  Bottom - (@Gen4 x4)(Open Ended to fit x16 Max)  
 </details>
