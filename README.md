@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ** Welcome to my profile **
+# Welcome to my profile
 
 My name is Toni.
-⬜⬜🟦⬜⬜⬜
-🟦🟦🟦🟦🟦🟦 I'm from Finland
-⬜⬜🟦⬜⬜⬜
-
-!GitHub Stats
+⬜⬜🟦⬜⬜⬜  
+🟦🟦🟦🟦🟦🟦 I'm from Finland  
+⬜⬜🟦⬜⬜⬜  
 
 
-## ** Home setup **
+
+## Home setup 
 <details>
   <summary>Home PC</summary>
 
@@ -56,6 +55,9 @@ My name is Toni.
   EVICIV Touchscreen (7')(1920x1080) <br/>
 </details>
 
-### ** Homelab **
+### Homelab
+<details>
+  <summary>Homelab Setup</summary>
 
-Homelab Setup
+  
+</details>
