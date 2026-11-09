@@ -25,6 +25,9 @@ My name is Toni.
 - HTML, CSS  
 -- Currently learning: Javascript
 
+## Projects  
+-- To be Added
+
 ## Home setup 
 <details>
   <summary>Home PC</summary>
