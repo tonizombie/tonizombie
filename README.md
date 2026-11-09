@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 
 # Welcome to my profile
 
-My name is Toni.
+My name is Toni.  
 ⬜⬜🟦⬜⬜⬜  
 🟦🟦🟦🟦🟦🟦 I'm from Finland  
 ⬜⬜🟦⬜⬜⬜  
 
-
+## Skills  
+### Programming Languages  
+- HTML, CSS
+-- Currently learning: Javascript
 
 ## Home setup 
 <details>
