@@ -20,6 +20,9 @@ My name is Toni.
 🟦🟦🟦🟦🟦🟦 I'm from Finland  
 ⬜⬜🟦⬜⬜⬜  
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Dev)](https://git.io/typing-svg)
+
 ## Skills  
 ### Programming Languages  
 - HTML, CSS  
