@@ -36,6 +36,9 @@ My name is Toni.
 ## Projects  
 -- To be Added
 
+## Certifications
+- Responsive Web Design - freeCodeCamp https://www.freecodecamp.org/certification/tonizombie/responsive-web-design-v9
+
 ## Home setup 
 <details>
   <summary>Home PC</summary>
